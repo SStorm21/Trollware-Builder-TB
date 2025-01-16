@@ -19,7 +19,7 @@ The **Storm Troll-Ware Builder (STB)** is a malicious software tool designed to 
 
 Check out the demonstration video here:  
 
-[![Watch on YouTube](https://imgur.com/fBOGRkS.png)](https://youtu.be/NlJVZS8tU6I)
+[![Watch on YouTube]()](https://youtu.be/NlJVZS8tU6I)
 
 
 ## 📥 install & run
