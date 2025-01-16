@@ -1,6 +1,4 @@
 
-
----
 # Storm Troll-Ware Builder (STB) 🃏🚨
 
 <p align="center">
