@@ -17,7 +17,6 @@ The **Storm Troll-Ware Builder (STB)** is a malicious software tool designed to 
 
 
 ## UI Screenshots 📸
-
 ![UI Screenshot 1](https://github.com/user-attachments/assets/a48baf58-7ce2-4cdf-8ae6-24b66de40e85)  
 ![UI Screenshot 2](https://github.com/user-attachments/assets/03fe5e0a-bacd-4837-945f-9220300e3360)  
 ![UI Screenshot 3](https://github.com/user-attachments/assets/e0d8bebb-0c2e-434c-b658-4463d582fc3a)
@@ -25,16 +24,11 @@ The **Storm Troll-Ware Builder (STB)** is a malicious software tool designed to 
 
 
 ## Last Scan on VirusTotal 🦠
-
 ![VirusTotal Scan](https://github.com/user-attachments/assets/d0bc9457-f023-42f2-a122-44c4f315b98a)
 
-
-
 ## 🛠️ Usage Example
-
 See it in action with the following video:
-
-[![Watch on YouTube](https://github.com/user-attachments/assets/62b2b34e-2a02-4de2-978e-615677b9ee3d)](https://youtu.be/EknU16n7lEk)
+[![Watch on YouTube](https://github.com/user-attachments/assets/1a0b6ee7-3de0-40ec-aeae-5bbdb0112e6a)](https://youtu.be/EknU16n7lEk)
 
 
 
