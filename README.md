@@ -66,7 +66,6 @@ You can download the installer from the following link:
 
 The installer can also be found in the project files, but for the latest version, download it directly from the link above ⤴️
 
-## 💼 License
+### 💼 License
 
 By downloading this, you agree to the **Commons Clause** license, which prohibits the selling of this repository or any code from it. For more information, visit [Commons Clause License](https://commonsclause.com/).
----
