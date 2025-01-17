@@ -184,7 +184,7 @@ sound__.start()
                     '--add-data', f'{audio_file_path};.',
                     '--add-data', f'{window_image_path};.',
                     '--noconsole',
-                    'new.py'
+                    'output.py'
                 ])
                 builder_()
                 remove_()
