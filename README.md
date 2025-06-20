@@ -1,6 +1,6 @@
 # Storm Troll-Ware Builder (STB) 🃏🚨
 
-![Storm Troll-Ware Builder](https://github.com/user-attachments/assets/62b2b34e-2a02-4de2-978e-615677b9ee3d)
+![Storm Troll-Ware Builder](https://github.com/user-attachments/assets/2fe5fb8b-3620-4978-87fb-a66db885de63)
 
 The **Storm Troll-Ware Builder (STB)** is a malicious software tool designed to create and execute trollware on Windows-based systems 🖥️💻. This tool allows users to generate trollware that can be compiled into executable (.exe) files 🔨💥, all through an intuitive graphical user interface (GUI) 🎨.
 
@@ -10,27 +10,15 @@ The **Storm Troll-Ware Builder (STB)** is a malicious software tool designed to 
 - **Windows Compatibility**: Specifically designed for Windows OS ⚙️💡.
 - **Graphical User Interface**: Easy-to-use interface for building and managing trollware 🖱️📊.
 
-
-## Malware showcase 🚩
-[![Watch on YouTube](https://github.com/user-attachments/assets/5219f1d9-61de-4103-ac31-a02898fa51bf)](https://youtu.be/vM56MmgWMOE)
-[![Watch on YouTube](https://github.com/user-attachments/assets/5219f1d9-61de-4103-ac31-a02898fa51bf)](https://youtu.be/EQNh72lMQTA)
-
-
 ## UI Screenshots 📸
-![UI Screenshot 1](https://github.com/user-attachments/assets/a48baf58-7ce2-4cdf-8ae6-24b66de40e85)  
-![UI Screenshot 2](https://github.com/user-attachments/assets/03fe5e0a-bacd-4837-945f-9220300e3360)  
-![UI Screenshot 3](https://github.com/user-attachments/assets/e0d8bebb-0c2e-434c-b658-4463d582fc3a)
+![UI Screenshot 1](https://github.com/user-attachments/assets/df69243f-3174-41a3-9488-06350a7aeb35)
+![UI Screenshot 2](https://github.com/user-attachments/assets/8ac3b6e0-9703-43cf-9c42-efe80a9824f1)  
+![UI Screenshot 3](https://github.com/user-attachments/assets/4bcbee8c-6abb-460a-92c0-685e0837d612)
 
 
 
 ## Last Scan on VirusTotal 🦠
-![VirusTotal Scan](https://github.com/user-attachments/assets/d0bc9457-f023-42f2-a122-44c4f315b98a)
-
-## 🛠️ Usage Example
-See it in action with the following video:
-[![Watch on YouTube](https://github.com/user-attachments/assets/1a0b6ee7-3de0-40ec-aeae-5bbdb0112e6a)](https://youtu.be/EknU16n7lEk)
-
-
+![VirusTotal Scan](https://github.com/user-attachments/assets/c6a00dd4-dea8-466b-afed-0cc719c04355)
 
 ## 📥 Installation Requirements
 
@@ -54,11 +42,8 @@ Alternatively, you can run the batch files to install the requirements:
 
 ### 🖥️ Install as an Executable for Windows 🪟
 
-You can download the installer from the following link:
 
-[Download Installer](https://sourceforge.net/projects/trollbuilder)
-
-The installer can also be found in the project files, but for the latest version, download it directly from the link above ⤴️
+the .exe file can found be in the project files, but for the latest version.
 
 ### 💼 License
 
