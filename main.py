@@ -219,7 +219,7 @@ sound__.start()
         window.resizable(resizeable,resizeable)
         window.geometry(f"{w_hight}x{w_width}+{left}+{top}")
         window.config(bg=config_bg)
-        info=CTkLabel(master=window,text="Discord: .6_g    github: SStorm20",font=("Comic Sans MS",25),height=70,width=30,bg_color=config_bg,fg_color=config_bg,text_color="white")
+        info=CTkLabel(master=window,text="Discord: p3hv    github: SStorm21",font=("Comic Sans MS",25),height=70,width=30,bg_color=config_bg,fg_color=config_bg,text_color="white")
         info.place(x=10,y=690)
         #logo
         logo_= CTkLabel(master=window,image=image_,bg_color=config_bg,text=' ')
@@ -306,6 +306,7 @@ sound__.start()
 
 if __name__=="__main__":
     main()
+
 
 
 
