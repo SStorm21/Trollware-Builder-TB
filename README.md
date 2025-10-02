@@ -4,6 +4,8 @@
 
 The **Storm Troll-Ware Builder (STB)** is a malicious software tool designed to create and execute trollware on Windows-based systems 🖥️💻. This tool allows users to generate trollware that can be compiled into executable (.exe) files 🔨💥, all through an intuitive graphical user interface (GUI) 🎨.
 
+⚠️ Use Restriction: Content here is provided only for lawful and defensive purposes — any malicious use, distribution, or deployment is prohibited and may lead to legal consequences. The maintainer expressly disclaims responsibility for and liability arising from any misuse; users assume all risk.
+
 ## Features ✨
 
 - **Create Trollware**: Generate malicious executables that disrupt and "troll" a system 💻.
