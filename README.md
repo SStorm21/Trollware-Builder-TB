@@ -18,9 +18,12 @@ The **Storm Troll-Ware Builder (STB)** is a malicious software tool designed to 
 ![UI Screenshot 3](https://github.com/user-attachments/assets/4bcbee8c-6abb-460a-92c0-685e0837d612)
 
 
-
 ## Last Scan on VirusTotal 🦠
 ![VirusTotal Scan](https://github.com/user-attachments/assets/c6a00dd4-dea8-466b-afed-0cc719c04355)
+
+## example 🥝
+
+https://github.com/user-attachments/assets/37de4860-1b90-47d4-af58-837359c83725
 
 ## 📥 Installation Requirements
 
@@ -32,6 +35,9 @@ To use this project, you'll need to install the required Python packages listed 
 2. Open a terminal or command prompt.
 3. Navigate to the project directory.
 4. Run the following command:
+
+
+
    
    ```bash
    pip install -r requirements.txt
