@@ -6,6 +6,11 @@ The **Storm Troll-Ware Builder (STB)** is a malicious software tool designed to 
 
 ⚠️ Use Restriction: Content here is provided only for lawful and defensive purposes — any malicious use, distribution, or deployment is prohibited and may lead to legal consequences. The maintainer expressly disclaims responsibility for and liability arising from any misuse; users assume all risk.
 
+# 💬 contact
+* telegram ➡️ SStorm2121 
+* signal ➡️ p3hv.24
+* telegram channel : https://t.me/SSStorm21
+
 ## Features ✨
 
 - **Create Trollware**: Generate malicious executables that disrupt and "troll" a system 💻.
