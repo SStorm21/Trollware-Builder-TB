@@ -6,6 +6,7 @@ import os
 import sys
 import subprocess
 #this is the python version
+#next update add pyinstaller and pygame, fix pyinstaller exeucter to make it add hidden imports like pygame etc..
 def get_resource_path(relative_path): #get the file path
     import os
     import sys
@@ -306,6 +307,7 @@ sound__.start()
 
 if __name__=="__main__":
     main()
+
 
 
 
