@@ -1,5 +1,0 @@
-tk
-customtkinter
-Pillow
-pyinstaller
-pygame
