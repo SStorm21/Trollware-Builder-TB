@@ -1,0 +1,5 @@
+tk
+customtkinter
+Pillow
+pyinstaller
+pygame-ce
